@@ -1,4 +1,4 @@
-# fuck
+# flutter-fuck-sdk
 
 📍
 
