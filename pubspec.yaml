@@ -1,8 +1,8 @@
 name: fuck
-description: unknow
+description: flutter-fuck-sdk
 version: 0.0.1
 author: zackaddy<xherghost@gmail.com>
-homepage: https://github.com/herghost000
+homepage: https://github.com/herghost000/fuck
 
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"
